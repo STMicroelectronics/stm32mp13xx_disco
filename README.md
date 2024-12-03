@@ -1,6 +1,6 @@
 # BSP STM32CubeMP13-Discovery Component
 
-![latest tag](https://img.shields.io/badge/tag-v1.2.0-brightgreen)
+![latest tag](https://img.shields.io/github/v/tag/STMicroelectronics/stm32mp13xx_disco.svg?color=brightgreen)
 
 ## Overview
 
